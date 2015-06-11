@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="sean8223" module="jooq-sbt-plugin" revision="1.6.0" status="release" publication="20150611115858" e:sbtVersion="0.13" e:scalaVersion="2.10">
+	<info organisation="sean8223" module="jooq-sbt-plugin" revision="1.6.0" status="release" publication="20150611140455" e:sbtVersion="0.13" e:scalaVersion="2.10">
 		<description>
 		jooq-sbt-plugin
 		</description>
